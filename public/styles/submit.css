@@ -34,13 +34,11 @@ html, body {
     border-radius: 30px; 
     width: 40%;
     text-align: center;
-    font-size: 15px;
+    font-size:  10px;
     text-decoration: none;
-    border: 10px solid #373851;
-    padding: 20px;
+    border: 10px solid #0008ff;
+    padding:20px ;
     margin: 10px;
-    display: flex;
-    flex-direction: column;
     background-color: #D5D6E9;
 }
 
@@ -98,18 +96,6 @@ html, body {
     background: #ffffff;
 }
 
-#about {
-    border-radius: 30px; 
-    width: 40%;
-    text-align: center;
-    font-size:  15px;
-    text-decoration: none;
-    border: 10px solid #373851;
-    padding:20px ;
-    margin: 10px;
-    background-color: #D5D6E9;
-}
-
 #text {
     text-align: justify;
 }
@@ -124,9 +110,8 @@ html, body {
     width: 10%;
     margin: 40px;
     border-radius: 30px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    top: 10px;
+    left: 100px;
 }
 
 .profile:hover {
